@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='ConversionLogFile.xsl'?>
+<LogFile projectName="Scale_current" typeText="Type" messageText="Message" timeText="Time">
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Information" Timestamp="1/26/2015 8:54:57 AM">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="Upgrade started" />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Information" Timestamp="1/26/2015 8:54:57 AM">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="Reading information from previous project" />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Information" Timestamp="1/26/2015 8:54:57 AM">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="Creating new project" />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Information" Timestamp="1/26/2015 8:55:00 AM">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="Exporting project data" />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Information" Timestamp="1/26/2015 8:55:10 AM">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="Importing data into the new project" />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <Details ServiceId="80" MessageId="30" Timestamp="1/26/2015 8:55:14 AM" Debug="false">
+    <Text>Warning	Meta Element missing in target meta! FullName=Siemens.Simatic.PlcLanguages.Model.DBEditorData OldId=707	1/26/2015 8:55:12 AM
+Warning	Meta Element missing in target meta! FullName=Siemens.Simatic.PlcLanguages.Model.DBTagData OldId=708	1/26/2015 8:55:12 AM
+Warning	Meta Element missing in target meta! FullName=Siemens.Simatic.PlcLanguages.Model.InterfaceEditorData OldId=748	1/26/2015 8:55:12 AM
+Warning	Meta Element missing in target meta! FullName=Siemens.Simatic.PlcLanguages.Model.TisOnlineAttributeData OldId=797	1/26/2015 8:55:12 AM
+Warning	Meta Element missing in target meta! FullName=Siemens.Simatic.PlcLanguages.Model.VATViewerData OldId=806	1/26/2015 8:55:12 AM
+Warning	Meta Element missing in target meta! FullName=Siemens.Automation.DomainModel.CompileLoadConfigData OldId=213	1/26/2015 8:55:12 AM
+Warning	Meta Element missing in target meta! FullName=Siemens.Automation.ObjectFrame.TextualReference OldId=99	1/26/2015 8:55:12 AM
+Warning	Meta Element missing in target meta! FullName=Siemens.Simatic.HwConfiguration.Hmi.Model.HmiInformationData OldId=432	1/26/2015 8:55:12 AM
+Warning	Meta Element missing in target meta! FullName=Siemens.Simatic.HwConfiguration.Hmi.Model.HmiLoadableHWConfigurationData OldId=433	1/26/2015 8:55:12 AM
+Warning	Meta Element missing in target meta! FullName=Siemens.Simatic.HwConfiguration.Hmi.Model.HmiLoadableObjectData OldId=434	1/26/2015 8:55:12 AM
+Warning	Meta Element missing in target meta! FullName=Siemens.Simatic.HwConfiguration.Hmi.Model.HmiLoadableObjectsLoadInfoData OldId=435	1/26/2015 8:55:12 AM
+Warning	Meta Element missing in target meta! FullName=Siemens.Simatic.HwConfiguration.Hmi.Model.HmiTransferData OldId=437	1/26/2015 8:55:12 AM
+Warning	Meta Element missing in target meta! FullName=Siemens.Simatic.HwConfiguration.Model.AlienNotificationSource OldId=457	1/26/2015 8:55:12 AM
+Warning	Meta Element missing in target meta! FullName=Siemens.Simatic.HwConfiguration.Model.AlienNotificationTarget OldId=460	1/26/2015 8:55:12 AM
+Warning	Meta Element missing in target meta! FullName=Siemens.Simatic.PlcLanguages.Model.IdentStates OldId=851	1/26/2015 8:55:12 AM
+Warning	Meta Element missing in target meta! FullName=Siemens.Automation.DomainModel.TagErrorState OldId=386	1/26/2015 8:55:12 AM
+Warning	Meta Element missing in target meta! FullName=Siemens.Automation.ObjectFrame.CoreObject.Children OldId=57	1/26/2015 8:55:12 AM
+Warning	Meta Element missing in target meta! FullName=Siemens.Automation.ObjectFrame.CoreObject.ExpandoBackRef OldId=64	1/26/2015 8:55:12 AM
+Warning	Meta Element missing in target meta! FullName=Siemens.Automation.ObjectFrame.CoreObject.TRefNames OldId=73	1/26/2015 8:55:12 AM
+Warning	Meta Element missing in target meta! FullName=Siemens.Automation.DomainModel.SWObjectData.IDisplayNaming_DisplayName OldId=324	1/26/2015 8:55:12 AM
+Warning	Meta Element missing in target meta! FullName=Siemens.Automation.DomainModel.TagData.IDisplayNaming_DisplayName OldId=334	1/26/2015 8:55:12 AM
+Warning	Meta Element missing in target meta! FullName=Siemens.Automation.DomainModel.CompileLoadConfigData.Parent OldId=214	1/26/2015 8:55:12 AM
+Warning	Meta Element missing in target meta! FullName=Siemens.Automation.DomainModel.DataContainerData.IDisplayNaming_DisplayName OldId=243	1/26/2015 8:55:12 AM
+Warning	Meta Element missing in target meta! FullName=Siemens.Automation.DomainModel.DataTypeItemData.Siemens_Automation_DomainServices_CommonTypeSystem_EnumType_IEnumType_BaseElementryDataType_Inverse OldId=251	1/26/2015 8:55:12 AM
+Warning	Meta Element missing in target meta! FullName=Siemens.Automation.DomainModel.DeviceData.CompileLoadConfig OldId=215	1/26/2015 8:55:12 AM
+Warning	Meta Element missing in target meta! FullName=Siemens.Automation.DomainModel.FolderData.IDisplayNaming_DisplayName OldId=266	1/26/2015 8:55:12 AM
+Warning	Meta Element missing in target meta! FullName=Siemens.Automation.ObjectFrame.CoreTextRangeList.ICoreTextRangeListExtendedData_Category OldId=96	1/26/2015 8:55:12 AM
+Warning	Meta Element missing in target meta! FullName=Siemens.Automation.ObjectFrame.CoreTextCategory.Siemens_Automation_ObjectFrame_CoreTextRangeList_ICoreTextRangeListExtendedData_Category_Inverse OldId=95	1/26/2015 8:55:12 AM
+Warning	Meta Element missing in target meta! FullName=Siemens.Automation.DomainServices.CommonTypeSystem.EnumType.IEnumType_BaseElementryDataType OldId=252	1/26/2015 8:55:12 AM
+Warning	Meta Element missing in target meta! FullName=Siemens.Automation.DomainServices.CommonTypeSystem.EnumType.IEnumType_Comment OldId=343	1/26/2015 8:55:12 AM
+Warning	Meta Element missing in target meta! FullName=Siemens.Automation.ObjectFrame.CoreLibraryHelp.Parent OldId=43	1/26/2015 8:55:12 AM
+Warning	Meta Element missing in target meta! FullName=Siemens.Automation.ObjectFrame.CoreText.Siemens_Automation_DomainModel_DataContainerData_IDisplayNaming_DisplayName_Inverse OldId=244	1/26/2015 8:55:12 AM
+Warning	Meta Element missing in target meta! FullName=Siemens.Automation.ObjectFrame.CoreText.Siemens_Automation_DomainModel_FolderData_IDisplayNaming_DisplayName_Inverse OldId=267	1/26/2015 8:55:12 AM
+Warning	Meta Element missing in target meta! FullName=Siemens.Automation.ObjectFrame.CoreText.Siemens_Automation_DomainModel_SWObjectData_IDisplayNaming_DisplayName_Inverse OldId=325	1/26/2015 8:55:12 AM
+Warning	Meta Element missing in target meta! FullName=Siemens.Automation.ObjectFrame.CoreText.Siemens_Automation_DomainModel_TagData_IDisplayNaming_DisplayName_Inverse OldId=335	1/26/2015 8:55:12 AM
+Warning	Meta Element missing in target meta! FullName=Siemens.Automation.ObjectFrame.CoreText.Siemens_Automation_DomainServices_CommonTypeSystem_EnumType_IEnumType_Comment_Inverse OldId=344	1/26/2015 8:55:12 AM
+Warning	Meta Element missing in target meta! FullName=Siemens.Automation.ObjectFrame.CoreText.Siemens_Simatic_AlarmServices_ObjectFrame_AlarmClassData_IDisplayNaming_DisplayName_Inverse OldId=888	1/26/2015 8:55:12 AM
+Warning	Meta Element missing in target meta! FullName=Siemens.Automation.ObjectFrame.TextualReference.NameServiceScopeParents OldId=74	1/26/2015 8:55:12 AM
+Warning	Meta Element missing in target meta! FullName=Siemens.Automation.ObjectFrame.TextualReference.SpecialBackReferences OldId=100	1/26/2015 8:55:12 AM
+Warning	Meta Element missing in target meta! FullName=Siemens.Simatic.AlarmServices.ObjectFrame.AlarmClassData.IDisplayNaming_DisplayName OldId=887	1/26/2015 8:55:12 AM
+Warning	Meta Element missing in target meta! FullName=Siemens.Simatic.HwConfiguration.Hmi.Model.HmiApplicationData.HmiInformation OldId=429	1/26/2015 8:55:12 AM
+Warning	Meta Element missing in target meta! FullName=Siemens.Simatic.HwConfiguration.Model.DeviceItemBaseData.Rack OldId=497	1/26/2015 8:55:12 AM
+Warning	Meta Element missing in target meta! FullName=Siemens.Simatic.HwConfiguration.Model.DeviceItemBaseData.RackToHeadModules OldId=498	1/26/2015 8:55:12 AM
+Warning	Meta Element missing in target meta! FullName=Siemens.Simatic.HwConfiguration.Hmi.Model.HmiInformationData.HmiApplication OldId=430	1/26/2015 8:55:12 AM
+Warning	Meta Element missing in target meta! FullName=Siemens.Simatic.HwConfiguration.Model.AlienNotificationSource.AlienNotificationTarget OldId=458	1/26/2015 8:55:12 AM
+Warning	Meta Element missing in target meta! FullName=Siemens.Simatic.HwConfiguration.Model.AlienNotificationTarget.AlienNotificationSource OldId=459	1/26/2015 8:55:12 AM
+Warning	Meta Element missing in target meta! FullName=Siemens.Simatic.PlcLanguages.Model.IIdentTransientData OldId=623	1/26/2015 8:55:12 AM
+Warning	Meta Element missing in target meta! FullName=Siemens.Automation.DomainModel.ITagCore OldId=177	1/26/2015 8:55:12 AM
+Warning	Meta Element missing in target meta! FullName=Siemens.Automation.ObjectFrame.ILinkRelationIds OldId=22	1/26/2015 8:55:12 AM
+Warning	Meta Element missing in target meta! FullName=Siemens.Automation.ObjectFrame.ITRefControlData OldId=25	1/26/2015 8:55:12 AM
+Warning	Meta Element missing in target meta! FullName=Siemens.Automation.ObjectFrame.ITextualReferencePrivate OldId=26	1/26/2015 8:55:12 AM
+Warning	Meta Element missing in target meta! FullName=Siemens.Simatic.HwConfiguration.Hmi.Model.IHmiInformationAttributes OldId=404	1/26/2015 8:55:12 AM
+</Text>
+  </Details>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Information" Timestamp="1/26/2015 8:55:17 AM">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="Updating new project" />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Information" Timestamp="1/26/2015 8:55:24 AM">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="Updating new project" />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <Details ServiceId="80" MessageId="30" Timestamp="1/26/2015 8:55:26 AM" Debug="false">
+    <Text>Preparing conversion of the S7 program for CPU "PLC_1"</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="1/26/2015 8:55:26 AM" Debug="false">
+    <Text>Conversion completed.</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="1/26/2015 8:55:26 AM" Debug="false">
+    <Text>Preparing conversion of the S7 program for CPU "PLC_1"</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="1/26/2015 8:55:26 AM" Debug="false">
+    <Text>Conversion completed.</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="1/26/2015 8:55:27 AM" Debug="false">
+    <Text>Converting S7 program for CPU "PLC_1".</Text>
+  </Details>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Information" Timestamp="1/26/2015 8:55:27 AM">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="Convert interface of block Scale_current_output" />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <Details ServiceId="80" MessageId="30" Timestamp="1/26/2015 8:55:29 AM" Debug="false">
+    <Text>Conversion completed.</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="1/26/2015 8:55:29 AM" Debug="false">
+    <Text>Converting S7 program for CPU "PLC_1".</Text>
+  </Details>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Information" Timestamp="1/26/2015 8:55:29 AM">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="Convert interface of block Scale_current_input" />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <Details ServiceId="80" MessageId="30" Timestamp="1/26/2015 8:55:29 AM" Debug="false">
+    <Text>Conversion completed.</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="1/26/2015 8:55:29 AM" Debug="false">
+    <Text>Preparing conversion of the S7 program for CPU "PLC_1"</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="1/26/2015 8:55:30 AM" Debug="false">
+    <Text>Conversion completed.</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="1/26/2015 8:55:30 AM" Debug="false">
+    <Text>Preparing conversion of the S7 program for CPU "PLC_1"</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="1/26/2015 8:55:30 AM" Debug="false">
+    <Text>Conversion completed.</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="1/26/2015 8:55:30 AM" Debug="false">
+    <Text>Converting S7 program for CPU "PLC_1".</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="1/26/2015 8:55:31 AM" Debug="false">
+    <Text>Conversion completed.</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="1/26/2015 8:55:31 AM" Debug="false">
+    <Text>Converting S7 program for CPU "PLC_1".</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="1/26/2015 8:55:31 AM" Debug="false">
+    <Text>Conversion completed.</Text>
+  </Details>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Information" Timestamp="1/26/2015 8:55:44 AM">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="Updating new project" />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Information" Timestamp="1/26/2015 8:55:44 AM">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="Saving the upgraded project." />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <MessageCell ServiceId="Automation-ObjectFrame-Feedbacks" MessageId="ConversionInfoTabLibrarySucceeded" MessageClass="Success" Timestamp="1/26/2015 8:55:44 AM">
+    <Number ServiceNumber="80" MessageNumber="32" />
+    <Text FeedbackText="Library 'Scale_current' was successfully upgraded and saved as library 'Scale_current_V12 Update 3'." />
+    <Help HelpId="-1" HelpFile="" />
+  </MessageCell>
+</LogFile>
